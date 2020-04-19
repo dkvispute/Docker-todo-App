@@ -6,7 +6,7 @@ In Order to Deploy App You Must Need to Setup Docker Environment First
 To Use this Just Clone The Repo
 for Stopping the App
 ```console
->clone  https://github.com/DattatrayPatil73076/Docker-ToDo-App.git 
+>clone  https://github.com/dkvispute/Docker-todo-App.git 
 ```
 Navigate to the App folder And hit
 ```console
